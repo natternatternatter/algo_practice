@@ -15,7 +15,4 @@ function fibonacci(num) {
 
 console.log(fibonacci(6));
 
-function fibBetter(num) {
-    return (num - )
-})
 
