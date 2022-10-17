@@ -13,3 +13,4 @@ function arrsToMap(array1, array2) {
 }
 
 console.log(arrsToMap(["abc", 3, "yo"], [42, "wassup", true]))
+
